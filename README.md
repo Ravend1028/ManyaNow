@@ -1,2 +1,2 @@
 # ManyaNow
-PRODUCTIVITY APP USING BOOTSTRAP, JAVASCRIPT, JQUERY, PHP AND MYSQL
+Introducing ManyaNow, a dynamic productivity app powered by FullCalendar.js, Bootstrap, jQuery, PHP, and MySQL. Seamlessly manage tasks with intuitive click-and-drop functionality, while staying organized with comprehensive to-do lists featuring note-taking and notification capabilities. Your data is securely stored in MySQL, with the option to download it for backup or offline access. Get started by cloning the repository, configuring your MySQL database, and launching the app in your preferred web server environment. 
